@@ -1,0 +1,15 @@
+train: /content/drive/MyDrive/bonsAI_AI4/Dataset/train/images
+val: /content/drive/MyDrive/bonsAI_AI4/Dataset/valid/images
+test: /content/drive/MyDrive/bonsAI_AI4/Dataset/test/images
+nc: 10
+names: 
+- door
+- cabinetDoor
+- refrigeratorDoor
+- window
+- chair
+- table
+- cabinet
+- couch
+- openedDoor
+- pole
